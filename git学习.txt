@@ -17,3 +17,8 @@ git push
 git log 查看版本   或者  git reflog  查看提交版本记录
 git reset --hard^ 回到上一级
 一般使用 git reset --hard 5c264 回到对应的版本
+
+
+分支问题
+git branch dev 创建分支
+git checkout dev 切换到dev
