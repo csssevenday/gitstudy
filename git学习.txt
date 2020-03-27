@@ -20,6 +20,9 @@ git reset --hard^ 回到上一级
 
 
 分支问题
-git branch dev 创建分支
-git checkout dev 切换到dev
-31231232132132132132131232211
+git branch dev      创建分支
+git checkout dev    切换到dev
+修改分支 然后commit 提交
+git checkout master
+git merge dev       在master上拉去dev的合并
+git branch -d dev   删除dev分支
