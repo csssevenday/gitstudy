@@ -5,3 +5,15 @@ git add README.md
 git commit -m "111"
 git remote add origin https://github.com/csssevenday/gitstudy.git
 git push -u origin master
+
+一般提交
+git add.
+git commit -m "22"
+git pull
+git push
+
+
+版本回退
+git log 查看版本   或者  git reflog  查看提交版本记录
+git reset --hard^ 回到上一级
+一般使用 git reset --hard 5c264 回到对应的版本
