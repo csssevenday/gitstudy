@@ -22,3 +22,4 @@ git reset --hard^ 回到上一级
 分支问题
 git branch dev 创建分支
 git checkout dev 切换到dev
+31231232132132132132131232211
